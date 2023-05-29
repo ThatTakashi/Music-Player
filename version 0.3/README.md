@@ -1,3 +1,3 @@
-# Version 0.2
-## Version contents:
-Addition of the ability to play music from a .mp3 file
+## Version 0.3
+### Version contents:
+Addition of a file dialogue to open and load .mp3 files
